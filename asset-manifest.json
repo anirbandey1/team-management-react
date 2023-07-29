@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/team-management-react/static/css/main.7e1479a6.css",
+    "main.js": "/team-management-react/static/js/main.8471d5f0.js",
+    "static/js/787.52a52ada.chunk.js": "/team-management-react/static/js/787.52a52ada.chunk.js",
+    "static/media/maleProfile.jpg": "/team-management-react/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/team-management-react/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/team-management-react/index.html",
+    "main.7e1479a6.css.map": "/team-management-react/static/css/main.7e1479a6.css.map",
+    "main.8471d5f0.js.map": "/team-management-react/static/js/main.8471d5f0.js.map",
+    "787.52a52ada.chunk.js.map": "/team-management-react/static/js/787.52a52ada.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1479a6.css",
+    "static/js/main.8471d5f0.js"
+  ]
+}
