@@ -21,7 +21,7 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
     },
-    "homepage": "http://awesomeDev12.github.io/team-management-react",
+    "homepage": "http://anirbandey1.github.io/team-management-react",
     "eslintConfig": {
         "extends": ["react-app", "react-app/jest"]
     },
