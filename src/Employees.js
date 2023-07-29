@@ -159,7 +159,7 @@ const Employee = () => {
             <div className="row justify-content-center mt-3 mb-3">
                 <div className="col-6">
                     <select
-                        className="form-select form-select-lg"
+                        className="form-select form-select-lg bg-dark text-white"
                         value={selectedTeam}
                         onChange={handleTeamSelectionChange}
                     >
@@ -177,7 +177,7 @@ const Employee = () => {
                             return (
                                 <div
                                     id={employee.id}
-                                    className={`card m-2 ${
+                                    className={`card m-2 bg-dark text-white ${
                                         employee.teamName === selectedTeam
                                             ? 'standout'
                                             : ''
