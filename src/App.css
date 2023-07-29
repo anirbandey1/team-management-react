@@ -1,10 +1,21 @@
+.outer-most {
+    /* background-color: #333333; */
+    background-color: #111111;
+}
+
 .card-collection {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
 .standout {
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px; */
+    /* box-shadow: rgba(0, 255, 255, 0.16) 0px 1px 4px, */
+    /*     rgb(0, 200, 200) 0px 0px 0px 3px; */
+
+    /* box-shadow: rgba(255, 153, 59, 0.16) 0px 1px 4px, */
+    /*     rgb(255, 153, 59) 0px 0px 0px 3px; */
+    box-shadow: aqua 0px 0px 5px 4px, blue 0px 0px 5px 5px;
 }
 
 /* .App { */

@@ -177,7 +177,7 @@ const Employee = () => {
                             return (
                                 <div
                                     id={employee.id}
-                                    className={`card m-2 bg-dark text-white ${
+                                    className={`card m-2 border border-secondary border-2 bg-dark text-white ${
                                         employee.teamName === selectedTeam
                                             ? 'standout'
                                             : ''

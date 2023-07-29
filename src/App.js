@@ -5,7 +5,7 @@ import Employees from './Employees.js';
 import './App.css';
 function App() {
     return (
-        <div className="bg-secondary">
+        <div className="outer-most">
             <Header />
             <Content />
             <Employees />
